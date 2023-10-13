@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bradley Robert Chery</h1>
 <h3 align="center">A passionate frontend developer from New York City</h3>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Digital_rain_animation_small_letters_shine.gif">
-
 - 🔭 I’m currently working on **building MERN stack website to perfect my ability to code in a timely fashion**
 
 - 🌱 I’m currently learning **AI**
