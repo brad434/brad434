@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bradley Robert Chery</h1>
 <h3 align="center">A passionate frontend developer from New York City</h3>
 
+<img src="![image](https://github.com/brad434/brad434/assets/58440657/bf0e9f4e-695d-48a5-ab91-3545e9e063e9)">
+
 - 🔭 I’m currently working on **building MERN stack website to perfect my ability to code in a timely fashion**
 
 - 🌱 I’m currently learning **AI**
